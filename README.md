@@ -8,6 +8,10 @@ Implemented automated weekly tracking using Excel formulas, conditional formatti
 - <a href="https://github.com/Nikhildscorpion/Data-Analysis-Project/blob/main/Trading%20Dashboard%20v3.3.xlsx">Data Set</a>
 
 ## DASHBOARD
-= <a href="https://github.com/Nikhildscorpion/Data-Analysis-Project/blob/main/Screenshot%202026-09-09%20172109.png">Dashboard</a>
+- <a href="https://github.com/Nikhildscorpion/Data-Analysis-Project/blob/main/Screenshot%202026-09-09%20172109.png">Dashboard</a>
+
+## DASHBOARD IMAGE
+<img width="1882" height="756" alt="Screenshot 2026-09-09 172109" src="https://github.com/user-attachments/assets/6d780335-86ce-4957-ab45-bcf7244d5fdb" />
+
 
 
